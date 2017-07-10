@@ -9,8 +9,8 @@
         <module name="webber" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="webber" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="webber" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

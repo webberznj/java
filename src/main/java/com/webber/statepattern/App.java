@@ -1,4 +1,4 @@
-package com.webber;
+package com.webber.statepattern;
 
 /**
  * Hello world!

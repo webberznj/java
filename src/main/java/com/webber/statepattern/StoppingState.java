@@ -1,4 +1,4 @@
-package com.webber;
+package com.webber.statepattern;
 
 /**
  * Created by wanpeng on 2017/6/30.
